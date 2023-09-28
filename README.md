@@ -70,7 +70,7 @@ Vá até o diretório que contém o Dockerfile e o requirements.txt no terminal.
 >**Componente_A**;
 >>Execute **como administrador** o seguinte comando para construir a imagem Docker da Componente_A(API principal):
 
-```
+``` 
 $ docker build -t rest-a .
 ```
 
